@@ -91,6 +91,7 @@ if ($_POST) {
     
     <div class="flex h-screen">
         <!-- Sidebar -->
+         //ini
         <div class="w-64 sidebar-gradient text-white flex flex-col">
             <!-- Header -->
             <div class="p-6 border-b border-blue-400">
@@ -148,6 +149,7 @@ if ($_POST) {
   </ul>
 </nav>
         </div>
+        //ini
 
         <!-- Main Content -->
         <div class="flex-1 flex flex-col">
