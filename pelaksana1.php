@@ -41,7 +41,7 @@
      </a>
     </nav>
    </aside>
-   <!-- Main content -->
+   <!-- Main contentt -->
    <main class="flex-1 bg-white overflow-auto flex flex-col">
     <!-- Top bar -->
     <header class="flex justify-between items-center bg-[#0D4DA1] text-white select-none" style="padding: 0.75rem 1.5rem; margin-top: 0;">
