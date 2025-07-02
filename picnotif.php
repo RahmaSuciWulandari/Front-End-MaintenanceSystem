@@ -19,7 +19,7 @@
   <div class="flex flex-col min-h-screen">
    <header class="bg-[#0B57A0] flex items-center justify-between px-6 h-14">
     <div class="flex items-center space-x-2">
-     <img alt="Maintenance System logo icon" class="w-6 h-6" height="24" src="https://storage.googleapis.com/a1aa/image/1111b8c1-727a-4b3c-a130-86322353b0b8.jpg" width="24"/>
+     <img alt="Maintenance System logo icon" class="w-6 h-6" height="24" src="logo.png" width="24"/>
      <span class="text-white font-semibold text-sm leading-5 select-none">
       Maintenance System
      </span>
