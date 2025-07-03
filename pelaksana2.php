@@ -19,7 +19,7 @@
   <!-- Sidebar -->
   <aside class="flex flex-col w-56 bg-gradient-to-b from-blue-800 to-blue-400 text-white">
    <div class="flex items-center gap-3 px-6 py-6 border-b border-white/30">
-    <img alt="Maintenance system icon with house and wrench symbol in white on blue background" class="w-8 h-8" height="32" src="https://storage.googleapis.com/a1aa/image/014f25d4-8033-4152-2906-68f5e666c771.jpg" width="32"/>
+    <img alt="Maintenance system icon with house and wrench symbol in white on blue background" class="w-8 h-8" height="32" src="logo.png" width="32"/>
     <div class="font-semibold text-lg leading-tight">
      Maintenance
      <br/>
@@ -76,7 +76,7 @@
        <th class="py-3 px-4 border-r border-blue-700">
         Nama Jadwal
        </th>
-       <th class="py-3 px-4 border-r border-blue-700 w-32">
+       <th class="py-3 px-4 border-r border-blue-700">
         Status
        </th>
        <th class="py-3 px-4 border-blue-700 w-32">

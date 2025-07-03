@@ -20,7 +20,7 @@
    <!-- Sidebar -->
    <aside class="flex flex-col w-56 bg-gradient-to-b from-[#0D4DA1] to-[#7EC1F6] text-white select-none">
     <div class="flex items-center gap-3 px-6 py-6 border-b border-white/30">
-     <img alt="Maintenance system icon with house and wrench" class="w-8 h-8" height="32" src="https://storage.googleapis.com/a1aa/image/44247a68-9e87-4a40-ee2b-39ee9098ba2c.jpg" width="32"/>
+     <img alt="Maintenance system icon with house and wrench" class="w-8 h-8" height="32" src="logo.png" width="32"/>
      <div class="font-semibold text-base leading-tight">
       Maintenance
       <br/>

@@ -19,7 +19,7 @@
   <!-- Sidebar -->
   <aside class="flex flex-col w-56 bg-gradient-to-b from-[#0057B8] to-[#7DB9E8] text-white">
    <div class="flex items-center gap-3 px-6 py-6">
-    <img alt="White icon of a house with wrench and screwdriver crossed behind it, representing maintenance" class="w-8 h-8" height="32" src="https://storage.googleapis.com/a1aa/image/e68315d2-ff80-4fef-0d23-dfda24a1bb6c.jpg" width="32"/>
+    <img alt="White icon of a house with wrench and screwdriver crossed behind it, representing maintenance" class="w-8 h-8" height="32" src="logo.png" width="32"/>
     <div class="font-semibold text-base leading-tight">
      Maintenance
      <br/>
@@ -68,17 +68,17 @@
     </h1>
     <table class="w-full border-collapse rounded-md overflow-hidden">
      <thead>
-      <tr class="bg-[#0057B8] text-white text-sm font-normal">
-       <th class="py-3 px-4 border-r border-blue-700 text-left w-14">
+      <tr class="bg-[#0057B8] text-white text-sm font-normal text-center">
+       <th class="py-3 px-4 border-r border-blue-700 w-14">
         No
        </th>
-       <th class="py-3 px-4 border-r border-blue-700 text-left">
+       <th class="py-3 px-4 border-r border-blue-700">
         Nama Jadwal
        </th>
-       <th class="py-3 px-4 border-r border-blue-700 text-left w-32">
+       <th class="py-3 px-4 border-r border-blue-700 ">
         Status
        </th>
-       <th class="py-3 px-4 text-left w-24">
+       <th class="py-3 px-4 w-24">
         Aksi
        </th>
       </tr>

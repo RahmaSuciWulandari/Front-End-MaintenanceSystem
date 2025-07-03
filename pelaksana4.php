@@ -81,7 +81,7 @@
        </label>
        <span class="mr-2">
        </span>
-       <input class="flex-1 border border-gray-300 rounded-md px-4 py-2 text-base leading-6" id="scanner" name="scanner" type="text" value=": xxxxxx"/>
+       <input class="flex-1 border border-gray-300 rounded-md px-4 py-2 text-base leading-6" id="scanner" name="scanner" type="text" value="xxxxxx"/>
       </div>
       <table class="w-full border border-black border-collapse rounded-md overflow-hidden">
 <thead>

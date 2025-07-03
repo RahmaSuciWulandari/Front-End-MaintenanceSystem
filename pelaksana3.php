@@ -19,7 +19,7 @@
   <!-- Sidebar -->
   <aside class="flex flex-col w-64 bg-gradient-to-b from-blue-800 to-blue-400 text-white p-6">
    <div class="flex items-center space-x-3 mb-8">
-    <img alt="White icon of a house with wrench and screwdriver around it" class="w-10 h-10" height="40" src="https://storage.googleapis.com/a1aa/image/62437a2f-03bc-432c-9757-f8c6416d1e08.jpg" width="40"/>
+    <img alt="White icon of a house with wrench and screwdriver around it" class="w-10 h-10" height="40" src="logo.png" width="40"/>
     <div class="font-semibold text-lg leading-tight">
      <div>
       Maintenance
